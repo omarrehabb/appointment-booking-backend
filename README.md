@@ -43,7 +43,7 @@ Supports full CRUD on appointments, in‑memory H2 database, Basic Auth security
 | Web            | Spring Web, Spring Security         |
 | Data & JPA     | Spring Data JPA, Hibernate, H2 DB   |
 | Build & Test   | Maven Wrapper, JUnit, Mockito       |
-| IDE            | VS Code / IntelliJ IDEA             |
+| IDE            | VS Code                             |
 
 ---
 
